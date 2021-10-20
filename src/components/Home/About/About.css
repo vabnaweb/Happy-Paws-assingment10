@@ -1,0 +1,15 @@
+.clinic{
+    color: rgb(110, 199, 235);
+}
+.pets{
+    color: rgb(172, 209, 211);
+}
+
+.pic img{
+     width:650px;
+}
+@media only screen and (max-width:720px) {
+    .pic img{
+        width:350px;
+   }    
+}

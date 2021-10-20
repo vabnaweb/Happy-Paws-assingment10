@@ -1,0 +1,21 @@
+.w-name img{
+     width:100px;
+     margin-left: 5px;
+}
+.font{
+      font-size: 20px;
+      
+}
+.tag-color{
+     color:rgb(110, 199, 235) ;
+}
+.logo-name{
+     font-style: italic;
+     font-weight: 700;
+}
+.tag-style{
+     color: rgb(173, 173, 173);
+}
+.navigation{
+     color: rgb(110, 199, 235);
+}

@@ -1,0 +1,16 @@
+.img img{
+    width:
+    30%;
+   
+}
+.color{
+    color: rgb(110, 199, 235);
+}
+.color2{
+   background-color:rgb(110, 199, 235);
+   border-radius: 5px;
+   border:1px solid white;
+   color:whitesmoke;
+   padding: 9px;
+   font-weight: bolder;
+}

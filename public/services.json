@@ -1,0 +1,58 @@
+[
+    {
+      "Id": 1,
+      "Service": "Wellness Care",
+      "Details": "Our wellness programs include: comprehensive physical exam; internal and external parasite testing.",
+      "DoctorName": "Dr.Ewane Frandance",
+      "DrImg": "https://freedesignfile.com/upload/2018/03/Pet-doctor-Stock-Photo-04.jpg",
+      "img":"https://i.ibb.co/py14ZWx/dog1-removebg-preview-1.png"
+      
+
+    },
+    {
+      "Id": 4,
+      "Service": "Pain Management",
+      "Details": "We understand that our patients feel pain and discomfort under the same circumstances as people do.",
+      "DoctorName": "Dr.A K Frique",
+      "DrImg": "http://hillcrestanimalclinic.net/wp-content/uploads/2015/12/bobby.jpg",
+      "img":"https://i.ibb.co/VYtWvkR/dog-img4-removebg-preview.png"
+
+    },
+    
+    {
+      "Id": 3,
+      "Service": "Nutritional Counseling",
+      "Details": "Some pets require special prescription food and all pets benefit from a balanced diet.",
+      "DoctorName": "Dr.Wahan Ique",
+      "DrImg": "https://turlockvet.com/wp-content/uploads/2015/08/IMG_7464-e1440850717802.jpg",
+      "img":"https://i.ibb.co/0jkppJ6/dog3-removebg-preview-1.png"
+
+    },
+    {
+      "Id":2,
+      "Service": "Anesthetic Monitoring",
+      "Details": "Your pet will be examined during check in to ensure that he or she is in top shape for surgery that day.",
+      "DoctorName": "Dr.Selina Deque",
+      "DrImg": "https://s3.amazonaws.com/systemimage/45066583_Subscription_S.jpg",
+      "img":"https://i.ibb.co/4PSmkVY/heart2-removebg-preview.png"
+    },
+   
+    {
+      "Id": 5,
+      "Service": "Vaccination Care",
+      "Details": "When a baby kitten or puppy is born, its immune system is not yet mature; the baby is wide open for infection.",
+      "DoctorName": "Dr.Marin Alax",
+      "DrImg": "https://rockroadvets.com/wp-content/uploads/2016/10/Dr.-Bednar-1.jpg",
+      "img":"https://i.ibb.co/xfxhmkn/dog-img5-removebg-preview-1.png"
+
+    },
+    {
+      "Id": 6,
+      "Service": "Dental Care",
+      "Details": "Regular dental cleanings are important in maintaining not only your pet’s teeth but his or her overall health as well.",
+      "DoctorName": "Dr.Rabiv John",
+      "DrImg": "https://d2b0sstunfvm0v.cloudfront.net/image-30139-340.jpg",
+      "img":"https://i.ibb.co/pP4PHQM/dog-6-removebg-preview-1.png"
+
+    }
+  ]

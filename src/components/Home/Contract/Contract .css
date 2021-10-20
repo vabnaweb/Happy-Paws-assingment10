@@ -1,0 +1,11 @@
+.from{
+    background-color: rgb(220, 230, 228);
+}
+.button1{
+    background-color: rgb(1, 15, 14);
+    border: 1px solid rgb(1, 15, 14);
+    font-weight: bold;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
